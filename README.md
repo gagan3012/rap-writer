@@ -4,7 +4,7 @@
 
 Creating a new finetuned model using data lyrics from leading hip-hop stars
 
-### My model can be accessed at: gagan3012/rap-writer
+### My model can be accessed at: [gagan3012/rap-writer](https://huggingface.co/gagan3012/rap-writer)
 
 ```
 from transformers import AutoTokenizer, AutoModelWithLMHead
